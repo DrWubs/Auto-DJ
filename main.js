@@ -72,7 +72,7 @@ window.app = $.extend(window.app, {
                         return;
                     }
                 
-                window.app.botMessage = $('<div id="bot-message">Auto DJ<span style="font-style: italic;"></span> <a href="#" style="text-decoration: none; color: red; font-weight: bold;">Turn off</a></div>');
+                window.app.botMessage = $('<div id="bot-message"> Dr Wubs Auto DJ<span style="font-style: italic;"></span> <a href="#" style="text-decoration: none; color: red; font-weight: bold;">Turn off</a></div>');
                 window.app.botMessage.css({
                         position: 'absolute',
                         left: '68px',
