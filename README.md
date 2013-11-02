@@ -1,4 +1,13 @@
-Auto-DJ
+Dr Wubs' Auto-DJ
+=======
+![alt tag](https://i.imgur.com/myAGPXV.png)
+
+Features
 =======
 
-Learn how to install this here:  http://tinyurl.com/krskj5d
+* Automatically puts you on stage
+* Optional Off button
+
+Download
+=======
+To download my auto DJ go to this link: http://shrib.com/1auuRPKT?hide=19
